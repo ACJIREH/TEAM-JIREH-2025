@@ -24,10 +24,10 @@ El desplazamiento es controlado por tres sensores: dos laterales y uno frontal. 
 *   `Fotos del Team ` contiene 2 fotos del equipo (una oficial y una divertida con todos sus miembros).
 *   `-Fotos vehículo` contiene 6 fotos del vehículo (de cada lado, desde arriba y desde abajo).
 *   `-Video` contiene el archivo video.md con el enlace a un vídeo de demostración de conducción.
-*   `Esquemas ` contiene uno o varios diagramas esquemáticos en formato JPEG de los componentes electromecánicos, que ilustran todos los elementos (componentes electrónicos y motores) utilizados en el vehículo y cómo se conectan entre sí.
+*   `-Esquemas ` contiene uno o varios diagramas esquemáticos en formato JPEG de los componentes electromecánicos, que ilustran todos los elementos (componentes electrónicos y motores) utilizados en el vehículo y cómo se conectan entre sí.
 *    `-Programa Fuente` contiene el código del software de control de todos los componentes programados para participar en la competición.
-*   ` Archivos 3D` contiene los archivos de los modelos utilizados por impresoras 3D para producir los elementos del vehículo. Si no hay nada que añadir a esta ubicación, se puede eliminar el directorio.
-*     Otros ` contiene otros archivos que pueden utilizarse para comprender cómo preparar el vehículo para la competición. Puede incluir documentación sobre cómo conectarse a un SBC/SBM y cargar archivos allí, conjuntos de datos, especificaciones de hardware, descripciones de protocolos de comunicación, etc. Si no hay nada que agregar a esta ubicación, se puede eliminar el directorio
+*   `-Archivos 3D` contiene los archivos de los modelos utilizados por impresoras 3D para producir los elementos del vehículo. Si no hay nada que añadir a esta ubicación, se puede eliminar el directorio.
+*  `-Otros ` contiene otros archivos que pueden utilizarse para comprender cómo preparar el vehículo para la competición. Puede incluir documentación sobre cómo conectarse a un SBC/SBM y cargar archivos allí, conjuntos de datos, especificaciones de hardware, descripciones de protocolos de comunicación, etc. Si no hay nada que agregar a esta ubicación, se puede eliminar el directorio
 
 
 
