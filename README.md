@@ -1,6 +1,6 @@
 Información de la Configuración del Vehículo
 Olimpiadas Mundiales de Robotica 2025 ( WRO 2025 )
-****  CATEGORIA : FUTUROS INGENIEROS *****
+#CATEGORIA : FUTUROS INGENIEROS *****
 ====
 ## RETO DEL VEHÍCULO AUTÓNOMO.
 ## EQUIPO : TEAM JIREH I
