@@ -24,13 +24,13 @@ El desplazamiento es controlado por tres sensores: dos laterales y uno frontal. 
 *   Elemento 1
 *   Elemento 2
 
-•	`t-photos` contiene 2 fotos del equipo (una oficial y una divertida con todos sus miembros).
-•	`v-photos` contiene 6 fotos del vehículo (de cada lado, desde arriba y desde abajo).
-•	`video` contiene el archivo video.md con el enlace a un vídeo de demostración de conducción.
-•	`schemes` contiene uno o varios diagramas esquemáticos en formato JPEG de los componentes electromecánicos, que ilustran todos los elementos (componentes electrónicos y motores) utilizados en el vehículo y cómo se conectan entre sí.
-•	`src` contiene el código del software de control de todos los componentes programados para participar en la competición.
-•	`models` contiene los archivos de los modelos utilizados por impresoras 3D para producir los elementos del vehículo. Si no hay nada que añadir a esta ubicación, se puede eliminar el directorio.
-•	`other` contiene otros archivos que pueden utilizarse para comprender cómo preparar el vehículo para la competición. Puede incluir documentación sobre cómo conectarse a un SBC/SBM y cargar archivos allí, conjuntos de datos, especificaciones de hardware, descripciones de protocolos de comunicación, etc. Si no hay nada que agregar a esta ubicación, se puede eliminar el directorio
+*   `t-photos` contiene 2 fotos del equipo (una oficial y una divertida con todos sus miembros).
+*   `-photos` contiene 6 fotos del vehículo (de cada lado, desde arriba y desde abajo).
+*   `-Video` contiene el archivo video.md con el enlace a un vídeo de demostración de conducción.
+*   `schemes` contiene uno o varios diagramas esquemáticos en formato JPEG de los componentes electromecánicos, que ilustran todos los elementos (componentes electrónicos y motores) utilizados en el vehículo y cómo se conectan entre sí.
+*    `-Src` contiene el código del software de control de todos los componentes programados para participar en la competición.
+*   `models` contiene los archivos de los modelos utilizados por impresoras 3D para producir los elementos del vehículo. Si no hay nada que añadir a esta ubicación, se puede eliminar el directorio.
+*     ther` contiene otros archivos que pueden utilizarse para comprender cómo preparar el vehículo para la competición. Puede incluir documentación sobre cómo conectarse a un SBC/SBM y cargar archivos allí, conjuntos de datos, especificaciones de hardware, descripciones de protocolos de comunicación, etc. Si no hay nada que agregar a esta ubicación, se puede eliminar el directorio
 
 
 
