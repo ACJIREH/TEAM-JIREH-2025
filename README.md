@@ -21,7 +21,8 @@ El proyecto consiste en el desarrollo de un robot que navegue de forma autónoma
 
 El desplazamiento es controlado por tres sensores: dos laterales y uno frontal. Estos sensores son los que realizarán las lecturas de las distancias laterales y frontales, segun las cuales deberá tomar la desicicón de esquivarlo o mantnerse en ruta. Para la detección de los colores se colocará un camará huskylens a través de la cual usando el reconocimkiento de colores permitirá diferencia los cubos de colores y poder descidir hacia donde dirirgirse.
 
-
+*   Elemento 1
+*   Elemento 2
 
 •	`t-photos` contiene 2 fotos del equipo (una oficial y una divertida con todos sus miembros).
 •	`v-photos` contiene 6 fotos del vehículo (de cada lado, desde arriba y desde abajo).
