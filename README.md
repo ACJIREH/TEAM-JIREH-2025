@@ -1,9 +1,24 @@
 Información de la Configuración del Vehículo
+Olimpiadas Mundiales de Robotica 2025 ( WRO 2025 )
+****  CATEGORIA : FUTUROS INGENIEROS *****
 ====
+## RETO DEL VEHÍCULO AUTÓNOMO.
+## EQUIPO : TEAM JIREH I
+## INTEGRANTES 
+1.- CHRISTOPHER J TUÑON CABRERA    LIDER/PROGRAMADOR
+2.- JOHAN ARANDA G SANCHEZ         SOPORTE
+3.- KEVIN EDGARDO SMITH            SOPORTE
 
-Este repositorio tiene toda la información necesaria para la configuración y conducción del vehículo autónomo para participar en la comptencia de las Olimpiadas Mundiales de Roboti ca del año 2025 (WRO 2025.
+## UBICACIÓN DEL REPOSITORIO **  : **https://github.com/ACJIREH/TEAM-JIREH-2025**
+# ENLACE DEL VIDEO DE YOUTUBE ** https://youtu.be/WBnumYfBWfk
 
-## Content
+Este repositorio tiene toda la información necesaria para la configuración y conducción del vehículo autónomo para participar en la competencia de las Olimpiadas Mundiales de Robotica del año 2025 (WRO 2025.)
+
+## RESUMEN DEL PROYECTO
+El proyecto consiste en el desarrollo de un robot que navegue de forma autónoma, alrrededor de una pista cuadrada de 300 cm por lado y en cuyo centro tambien hay un cuadrado de 100 cm de madera negra. El vehículo se desplazará por toda esta pista, en ella se encontrará objetos de color rojo y verde para se convertiran en obstáculos que el vehíulo deberá esquivar por la izquiera o derecha, segun sea el color. Para finalizar el recorrido deberá dar tres vueltas en las pistas sin chocar con las paredes o con objetos de colores ubicados dentro de la pista. 
+
+El desplazamiento es controlado por tres sensores: dos laterales y uno frontal. Estos sensores son los que realizarán las lecturas de las distancias laterales y frontales, segun las cuales deberá tomar la desicicón de esquivarlo o mantnerse en ruta. Para la detección de los colores se colocará un camará huskylens a través de la cual usando el reconocimkiento de colores permitirá diferencia los cubos de colores y poder descidir hacia donde dirirgirse.
+
 
 
 •	`t-photos` contiene 2 fotos del equipo (una oficial y una divertida con todos sus miembros).
