@@ -1,6 +1,6 @@
-Información de la Configuración del Vehículo
+#Información de la Configuración del Vehículo
 
-Olimpiadas Mundiales de Robotica 2025 ( WRO 2025 )
+##Olimpiadas Mundiales de Robotica 2025 ( WRO 2025 )
 
 #CATEGORIA : FUTUROS INGENIEROS *****
 
