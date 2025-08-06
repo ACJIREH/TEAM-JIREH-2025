@@ -16,7 +16,7 @@
 ### UBICACIÓN DEL REPOSITORIO **  : **https://github.com/ACJIREH/TEAM-JIREH-2025**
 ### ENLACE DEL VIDEO DE YOUTUBE ** https://youtu.be/sBbIV_SjDmU
 
-##Resumen del Proyecto##
+## Resumen del Proyecto
 
 El proyecto consiste en el desarrollo de un robot que navegue de forma autónoma, alrrededor de una pista cuadrada de 300 cm por lado, construida de madera pintada de negro. En el centro tambien hay un cuadrado de 100 cm de madera pintada de negra. El vehículo se desplazará por toda esta pista sin chocar con las paredes laterales ni frontal.
 
