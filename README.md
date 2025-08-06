@@ -37,7 +37,15 @@ Al comunicarse entre si conla infraestructura, los vahículos autonomos optimiza
 Los vehiculos autónomos se pueden utilizar en la investigación espacial, siendo enviados a marte u otros planetas, donde podrán recorrer la superficie del planeta, recolectar muestras sin que el astronuata quede expuesto al peligro.
 
 ## ESPECIFICACIÓNES TECNICAS
-* Vehículo : 
+**100% Autonomo.**  No utiliza ningún control remotor, inhalambrico.
+**Sistema de Visión** Utiliza una camará Huskylens para la detección del color. (Verde/Rojo)
+**Evasión de Obstáculos** Usa tres sensores de ultrasonido HC-SR04. Dos laterales y uno frontal 
+**Potencia** una bateria de litio de 9Volt de 60 mAh
+**Chasis** Modificado de OSOYOO CAR
+**Porta sensor** Diseñado para sostener los sensores de ultrasonido, impreso en una impresora 3D 
+
+
+
 ## INDICE
 *   `-Fotos del Team ` contiene 2 fotos del equipo (una oficial y una divertida con todos sus miembros).
 *   `-Fotos vehículo` contiene 6 fotos del vehículo (de cada lado, desde arriba y desde abajo).
