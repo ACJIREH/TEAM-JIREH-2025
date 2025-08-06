@@ -2,7 +2,7 @@
                    
 First Header  | Second Header
 ------------- | -------------
-Content Cell  | Content Cell
+<img width="200" height="60" alt="WRO-Logo-Panama-1024x296" src="https://github.com/user-attachments/assets/bcaf5c48-5e03-456c-b714-0e667bdd50f8" />  | Content Cell
 Content Cell  | Content Cell 
 
 | First Header  | Second Header |
@@ -10,7 +10,7 @@ Content Cell  | Content Cell
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-<img width="200" height="60" alt="WRO-Logo-Panama-1024x296" src="https://github.com/user-attachments/assets/bcaf5c48-5e03-456c-b714-0e667bdd50f8" />
+
 
 ## Olimpiadas Mundiales de Robotica 2025 ( WRO 2025 )
 
