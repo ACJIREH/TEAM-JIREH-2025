@@ -1,5 +1,8 @@
 Video
 ====
+En este directorio encontramos el video subido a youtube sobre el recorrido que hace el vehiculo sobre la pista,
 
-This directory must contain the video.md file with a URL to YouTube (should be either public or accessible by link) showing the vehicle driving autonomously.
-That part of the video where driving demonstration exists must be at least 30 seconds in length.
+
+https://github.com/user-attachments/assets/9a6d3b72-bc7c-47b4-a2d4-8b3f3096d3e3
+
+.
