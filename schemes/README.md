@@ -1,5 +1,9 @@
 # Esquema de Conexión 
 
+<img width="1328" height="1328" alt="esquema de conexion 1" src="https://github.com/user-attachments/assets/b7072fe8-dd61-42a7-b739-e14dcd0b8db1" />
+
+
+
 ## Configuración General 
 
 El vehículo autónomo utiliza un Arduino UNO como cerebro principal que coordina todos los componentes mediante una red de conexiones específicas. 
