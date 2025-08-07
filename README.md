@@ -38,10 +38,15 @@ Los vehiculos autónomos se pueden utilizar en la investigación espacial, siend
 El desplazamiento es controlado por tres sensores ultrasónicos HC-SR04, dos laterales y uno frontal. Estos sensores son los que realizarán las lecturas de las distancias laterales y frontales, segun las cuales deberá tomar la desición de esquivarlo o mantenerse en ruta. Para la detección de los colores se colocará un camará huskylens a través de la cual usando el reconocimiento de colores permitirá diferencia los cubos de colores y poder descidir hacia donde dirigirse.
 
 **100% Autonomo.**  No utiliza ningún control remotor, inhalambrico.
+
 **Sistema de Visión** Utiliza una camará Huskylens para la detección del color. (Verde/Rojo)
+
 **Evasión de Obstáculos** Usa tres sensores de ultrasonido HC-SR04. Dos laterales y uno frontal 
+
 **Potencia** una bateria de litio de 9Volt de 650 mAh
+
 **Chasis** Modificado de OSOYOO CAR
+
 **Porta sensor** Diseñado para sostener los sensores de ultrasonido, impreso en una impresora 3D 
 
 ## INDICE
