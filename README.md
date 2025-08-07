@@ -33,7 +33,7 @@ Los vehiculos autónomos se pueden utilizar en la investigación espacial, siend
 
 ## ESPECIFICACIÓNES TECNICAS
 ### Sistema de Control y sensores
-El desplazamiento es controlado por tres sensores ultrasónicos HC-SR04, dos laterales y uno frontal. Estos sensores son los que realizarán las lecturas de las distancias laterales y frontales, segun las cuales deberá tomar la desición de esquivarlo o mantenerse en ruta. Para la detección de los colores se colocará un camará huskylens a través de la cual usando el reconocimiento de colores permitirá diferencia los cubos de colores y poder descidir hacia donde dirigirse.
+El desplazamiento es controlado por tres sensores ultrasónicos HC-SR04, dos laterales y uno frontal. Estos sensores son los que realizarán las lecturas de las distancias laterales y frontales, segun las cuales deberá tomar la desición de esquivarlo o mantenerse en ruta. Para la detección de los colores se colocará un camará huskylens a través de la cual usando el reconocimiento de colores permitirá diferencia los cubos de colores y poder descidir hacia donde dirigirse.Ademas, podemos rersaltar los siguientes aspectos:
 
 **100% Autonomo.**  No utiliza ningún control remotor, inhalambrico.
 
@@ -48,17 +48,17 @@ El desplazamiento es controlado por tres sensores ultrasónicos HC-SR04, dos lat
 **Porta sensor** Diseñado para sostener los sensores de ultrasonido, impreso en una impresora 3D 
 
 ## INDICE
-**Fotos del Team :** Contiene 2 fotos del equipo (una oficial y una divertida con todos sus miembros).
+**t-photos:** Contiene 2 fotos del equipo (una oficial y una divertida con todos sus miembros).
 
-**Fotos vehículo :** Contiene 6 fotos del vehículo (de cada lado, desde arriba y desde abajo).
+**v-photos:** Contiene 6 fotos del vehículo (de cada lado, desde arriba y desde abajo).
 
-**Video :** Contiene el archivo video.md con el enlace a un vídeo de demostración de conducción.
+**video :** Contiene el archivo video.md con el enlace a un vídeo de demostración de conducción.
 
-**Esquemas :** Contiene uno o varios diagramas esquemáticos en formato JPEG de los componentes electromecánicos, que ilustran todos los elementos (componentes electrónicos y motores) utilizados en el vehículo y cómo se conectan entre sí.
+**schemes :** Contiene uno o varios diagramas esquemáticos en formato JPEG de los componentes electromecánicos, que ilustran todos los elementos (componentes electrónicos y motores) utilizados en el vehículo y cómo se conectan entre sí.
 
-**Programa Fuente :** Contiene el código del software de control de todos los componentes programados para participar en la competición.
+**src :** Contiene el código del software de control de todos los componentes programados para participar en la competición.
 
 **Archivos 3D :** Contiene los archivos de los modelos utilizados por impresoras 3D para producir los elementos del vehículo. Si no hay nada que añadir a esta ubicación, se puede eliminar el directorio.
 
-**Otros :** Contiene otros archivos que pueden utilizarse para comprender cómo preparar el vehículo para la competición. Puede incluir documentación sobre cómo conectarse a un SBC/SBM y cargar archivos allí, conjuntos de datos, especificaciones de hardware, descripciones de protocolos de comunicación, etc. Si no hay nada que agregar a esta ubicación, se puede eliminar el directorio
+**other :** Contiene otros archivos que pueden utilizarse para comprender cómo preparar el vehículo para la competición. Puede incluir documentación sobre cómo conectarse a un SBC/SBM y cargar archivos allí, conjuntos de datos, especificaciones de hardware, descripciones de protocolos de comunicación, etc. Si no hay nada que agregar a esta ubicación, se puede eliminar el directorio
 
