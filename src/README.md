@@ -6,8 +6,11 @@ Este directorio contiene el código del software de control utilizado por el veh
 Todos los archivos necesarios para resolver dependencias y compilar el proyecto también deben incluirse en este directorio..
 
 #include <Ultrasonic.h>
+
 #include <Servo.h>
+
 //sensor de distancia//
+
 
 Ultrasonic Der(9,10); //sensor Derecha//
 
