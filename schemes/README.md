@@ -1,8 +1,7 @@
 # Esquema de Conexión 
+![esquema de conexion 2](https://github.com/user-attachments/assets/35dbdfef-fd6d-4d56-8c62-edbd0d0e558f)
 
 <img width="1328" height="1328" alt="esquema de conexion 1" src="https://github.com/user-attachments/assets/b7072fe8-dd61-42a7-b739-e14dcd0b8db1" />
-
-
 
 ## Configuración General 
 
